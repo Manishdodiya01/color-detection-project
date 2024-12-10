@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+#image-container {
+    position: relative;
+    display: inline-block;
+}
+
+#color-image {
+    width: 60%;
+    border: 2px solid #000;
+    cursor: crosshair;
+}
+
+#color-output {
+    margin-top: 20px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #333;
+}

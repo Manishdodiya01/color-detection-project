@@ -1,0 +1,7 @@
+Color_detection_project/
+├── app.py
+├── static/
+│   └── uploads/         # This folder will contain uploaded images
+├── templates/
+│   └── index.html
+└── requirements.txt
